@@ -1,16 +1,14 @@
 # Service-APIs-through-Test-Automation
 
-Postman API Test Automation Training
+📝 Postman API Test Automation Training by Test Automation University. 
 
-Course Outline
-Lesson 1: Intro to API Testing
+Lesson 1: Intro to API Testing: ✅
+-> What is an API
+-> Who is the end user of an API?
+-> Why is it important to test the API?
+-> Tools for viewing APIs— Web Dev Tools (Chrome and Firefox) and Proxies
 
-What is an API
-Who is the end user of an API?
-Why is it important to test the API?
-Tools for viewing APIs— Web Dev Tools (Chrome and Firefox) and Proxies
 Lesson 2: Postman Tool
-
 Postman Installation
 Basic Requests
 Importing Requests
